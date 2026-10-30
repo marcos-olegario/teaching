@@ -159,7 +159,7 @@ conda env config vars set \
 
 ```bash
 conda deactivate
-conda activate conex
+conda activate rootenv
 ```
 
 5) Confira:
